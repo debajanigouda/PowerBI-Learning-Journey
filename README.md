@@ -1,7 +1,6 @@
 # Power BI Learning Journey — Debajani Gouda
 
-This is my daily Power BI learning journal.
-I am documenting everything I learn — day by day, file by file.
+This is my daily Power BI learning journey where I document my progress step-by-step.
 
 ## Folder Structure
 
@@ -22,9 +21,20 @@ I am documenting everything I learn — day by day, file by file.
 - Power Query: Append Tables
 - Datasets: Student data, IPL 2008–2020, AI Jobs, Employee data
 
+## Progress
+
+- Day 01: Power Query Basics & Data Cleaning  
+- Day 02: Data Visualization & Dashboard Creation  
+
 ## Daily Commit Goal
-Push something every day — a file, a screenshot, or a note.
+
+Push something every day — a file, a screenshot, or a note.  
 Small steps. Consistent progress.
 
+## Goal
+
+To become confident in data analysis and dashboard creation using Power BI.
+
 ## Started
+
 April 2026
