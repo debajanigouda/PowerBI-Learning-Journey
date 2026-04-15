@@ -8,6 +8,7 @@ Task:
 
 What I did:
 - Loaded dataset into Power BI
+- Cleaned the data
 - Created multiple report pages (5 pages)
 - Used different visuals:
   - Clustered column chart
